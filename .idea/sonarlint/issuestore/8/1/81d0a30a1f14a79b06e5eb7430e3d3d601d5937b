@@ -1,0 +1,13 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜…‰ÿúÿÿÿÿ8¿£Á¹–-
+’squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ä’‡†ûÿÿÿÿ8ÞË÷º–-
+…squid:S1488#"bImmediately return this expression instead of assigning it to the temporary variable "averageAge".(Ì‘ÒÊþÿÿÿÿ8ˆ”ùº–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(á‘þÙúÿÿÿÿ8ØÝ†¹–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ßÅœüÿÿÿÿ8ØÝ†¹–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(èË€û8öò²¹–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(öç¾Õ8¯§úº–-
